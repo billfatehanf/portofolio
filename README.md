@@ -88,8 +88,89 @@
 
 ```
 Portofolio/
-└── README.md        ← This file
+├── README.md
+└── research/
+    ├── sources.md                     ← Master list of all 10 experts
+    ├── linkedin-posts/
+    │   ├── justin-welsh.md
+    │   ├── chris-walker.md
+    │   ├── dave-gerhardt.md
+    │   ├── jason-lemkin.md
+    │   ├── april-dunford.md
+    │   ├── elena-verna.md
+    │   ├── anthony-pierri.md
+    │   ├── morgan-ingram.md
+    │   ├── sangram-vajre.md
+    │   └── kyle-poyar.md
+    ├── youtube-transcripts/
+    │   ├── justin-welsh.md
+    │   ├── chris-walker.md
+    │   ├── dave-gerhardt-exitfive.md
+    │   ├── jason-lemkin-saastr.md
+    │   ├── april-dunford.md
+    │   ├── elena-verna.md
+    │   ├── anthony-pierri.md
+    │   ├── morgan-ingram.md
+    │   ├── sangram-vajre.md
+    │   └── kyle-poyar.md
+    └── other/
+        └── key-themes.md              ← Cross-expert synthesis
 ```
+
+---
+
+## 🔬 Research Project: LinkedIn Organic Content Strategy for B2B SaaS
+
+### Why This Topic?
+
+LinkedIn organic content strategy for B2B SaaS was chosen because:
+
+1. **High practitioner density** — Unlike many marketing topics, LinkedIn B2B strategy has a large community of experts who *actively practice* what they teach, making it easy to find real-world evidence.
+2. **Measurable impact** — LinkedIn organic content directly influences pipeline, recruiting, and brand in B2B SaaS, with experts openly sharing metrics and frameworks.
+3. **Rapidly evolving** — The 2025–2026 landscape (AI commoditization, algorithm changes, the rise of "dark social") makes this a timely and dynamic research area.
+4. **Cross-functional relevance** — The topic spans marketing, sales, product, and leadership — providing diverse expert perspectives.
+
+### Experts Selected (10)
+
+| # | Expert | Role / Company | Primary Focus |
+|---|--------|---------------|---------------|
+| 1 | **Justin Welsh** | Solopreneur | LinkedIn systems, content repurposing, personal branding |
+| 2 | **Chris Walker** | CEO, Passetto | Demand generation, dark social, anti-MQL movement |
+| 3 | **Dave Gerhardt** | Founder, Exit Five | Founder-led marketing, community building, B2B playbooks |
+| 4 | **Jason Lemkin** | Founder, SaaStr | SaaS scaling, AI transformation, organic as competitive moat |
+| 5 | **April Dunford** | Positioning Consultant | Product positioning, sales narratives, messaging frameworks |
+| 6 | **Elena Verna** | Growth Advisor | Growth loops, PLG, product-led sales, trust as moat |
+| 7 | **Anthony Pierri** | Co-Founder, FletchPMM | Homepage messaging, positioning execution, use-case anchoring |
+| 8 | **Morgan Ingram** | Founder, AMP Creative | Social selling, LinkedIn video, content-driven prospecting |
+| 9 | **Sangram Vajre** | CEO, GTM Partners | ABM/ABX, GTM operating system, community-led growth |
+| 10 | **Kyle Poyar** | Solopreneur (ex-OpenView) | PLG pricing, data-driven content, personal brand portability |
+
+**Selection criteria:** Each expert was chosen because they *actively practice* LinkedIn organic content strategy — not just write about it. They have built audiences, companies, and revenue streams primarily through LinkedIn organic content.
+
+### Data Collected
+
+| Category | Count | Details |
+|----------|-------|---------|
+| **LinkedIn Posts** | 50 posts | 5 curated posts per expert × 10 experts |
+| **YouTube Transcripts** | 20 videos | 2 videos per expert × 10 experts |
+| **Key Themes Synthesis** | 10 themes | Cross-expert analysis identifying common patterns |
+
+### Key Findings
+
+The top 10 themes that emerged across all experts:
+
+1. **People follow people, not brands** — Personal profiles outperform company pages
+2. **Demand creation > lead capture** — Ungated content builds pipeline; MQLs are dying
+3. **Positioning comes first** — All content must flow from clear strategic positioning
+4. **Consistency compounds** — Multi-year daily posting creates exponential returns
+5. **Zero-click content wins** — Full value within posts; no external links
+6. **Content systems > one-off creation** — Repurpose one source into many posts
+7. **Trust is the ultimate moat** — Authentic human content beats AI-generated content
+8. **LinkedIn is a full-stack tool** — Serves pipeline, recruiting, research, and more
+9. **Data + specificity outperform** — Real numbers and examples beat generic advice
+10. **Content-community loop** — LinkedIn + community creates a self-reinforcing flywheel
+
+For detailed analysis, see [`research/other/key-themes.md`](research/other/key-themes.md).
 
 ---
 
@@ -97,8 +178,12 @@ Portofolio/
 
 > April 13, 2026
 
+## 📅 Research Date
+
+> April 14, 2026
+
 ---
 
 ## 👤 Bill Fatehan Fathoni
 
-Personal portfolio repository — set up as part of the developer environment configuration process.
+Personal portfolio repository — set up as part of the developer environment configuration process. Research project on LinkedIn organic content strategy for B2B SaaS.

@@ -5,11 +5,11 @@
 
 ---
 
-## Video 1: "AI + B2B in 2026: Find the Tailwinds or Get Left Behind"
+## Video 1: "We replaced our sales team with 20 AI agents—here's what happened next | Jason Lemkin"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=saastr-ai-b2b-2026 |
+| **URL** | https://www.youtube.com/watch?v=I-R1bc1rlFs |
 | **Date** | January 2026 |
 | **Duration** | ~45 min |
 | **Speaker** | Jason Lemkin |
@@ -48,11 +48,11 @@ He closes with practical advice:
 
 ---
 
-## Video 2: "What Really Matters in SaaS in 2025"
+## Video 2: "Introduction and Session Theme"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=saastr-what-matters-2025 |
+| **URL** | https://www.youtube.com/watch?v=RZYUn_ExLBY |
 | **Date** | November 2024 (still highly relevant) |
 | **Duration** | ~38 min |
 | **Speaker** | Jason Lemkin |

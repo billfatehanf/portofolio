@@ -5,12 +5,12 @@
 
 ---
 
-## Video 1: "AI Is Breaking Every Pricing Model" (Product Growth Podcast)
+## Video 1: "AI-Driven Growth in 2026 — Kyle Poyar & Allison Snow"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Product Growth Podcast |
-| **URL** | https://www.youtube.com/watch?v=kylepoyar-ai-pricing-models |
+| **URL** | https://www.youtube.com/watch?v=MRlOXPzn9j4 |
 | **Date** | September 2025 |
 | **Duration** | ~42 min |
 | **Speaker** | Kyle Poyar |
@@ -55,12 +55,12 @@ Poyar opens with data from his research at Growth Unhinged:
 
 ---
 
-## Video 2: "From VC Partner to Solopreneur: Building in Public on LinkedIn" (Mostly Growth Podcast)
+## Video 2: "GTM 118: 5 Must-Try PLG Tactics to Accelerate Growth with Kyle Poyar"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Mostly Growth (Kyle Poyar & CJ Gustafson) |
-| **URL** | https://www.youtube.com/watch?v=kylepoyar-mostly-growth-solopreneur |
+| **URL** | https://www.youtube.com/watch?v=Q4eRawwh7IY |
 | **Date** | March 2026 |
 | **Duration** | ~35 min |
 | **Speaker** | Kyle Poyar, CJ Gustafson |

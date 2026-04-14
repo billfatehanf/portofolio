@@ -5,11 +5,11 @@
 
 ---
 
-## Video 1: "The LinkedIn Accelerator Playbook for B2B Sales"
+## Video 1: "How To Create LinkedIn Content That Drives B2B Sales"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=morgan-ingram-linkedin-accelerator |
+| **URL** | https://www.youtube.com/watch?v=gY2RPCbEnvU |
 | **Date** | January 2026 |
 | **Duration** | ~28 min |
 | **Speaker** | Morgan Ingram |
@@ -48,11 +48,11 @@ Step 4 — CONNECT with purpose. When you do reach out, reference their content.
 
 ---
 
-## Video 2: "Content-Driven Pipeline: How to Generate Meetings Without Cold Outreach"
+## Video 2: "Why LinkedIn is the Best Platform for B2B Growth"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=morgan-content-driven-pipeline |
+| **URL** | https://www.youtube.com/watch?v=vno7VsbAbFk |
 | **Date** | October 2025 |
 | **Duration** | ~35 min |
 | **Speaker** | Morgan Ingram |

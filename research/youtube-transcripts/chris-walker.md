@@ -5,12 +5,12 @@
 
 ---
 
-## Video 1: "Chris Walker's 0-to-10M ARR Content Playbook"
+## Video 1: "What B2B Can Learn From DTC | Expert Sessions with Chris Walker"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Exit Five |
-| **URL** | https://www.youtube.com/watch?v=chriswalker-exitfive-content-playbook |
+| **URL** | https://www.youtube.com/watch?v=LUo0aQ1g-BY |
 | **Date** | January 2025 |
 | **Duration** | ~48 min |
 | **Speaker** | Chris Walker, Dave Gerhardt (host) |
@@ -57,12 +57,12 @@ Phase 3 ($3M to $10M): Scale the voices. Get your VP of Sales posting. Get your 
 
 ---
 
-## Video 2: "The Future of GTM and Sustainable Growth"
+## Video 2: "Evidence-Based Medicine"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Exit Five |
-| **URL** | https://www.youtube.com/watch?v=chriswalker-future-gtm-2025 |
+| **URL** | https://www.youtube.com/watch?v=L2baqhX1sMg |
 | **Date** | January 2025 |
 | **Duration** | ~38 min |
 | **Speaker** | Chris Walker, Dave Gerhardt (host) |

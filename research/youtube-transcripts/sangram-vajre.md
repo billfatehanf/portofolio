@@ -5,12 +5,12 @@
 
 ---
 
-## Video 1: "Building a GTM Operating System" (The Why What How Show)
+## Video 1: "Sangram Vajre: Trends in B2b Sales"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | The Why What How Show |
-| **URL** | https://www.youtube.com/watch?v=sangramvajre-gtm-operating-system |
+| **URL** | https://www.youtube.com/watch?v=PGG_2sr5J0M |
 | **Date** | May 2025 |
 | **Duration** | ~40 min |
 | **Speaker** | Sangram Vajre |
@@ -62,12 +62,12 @@ LinkedIn organic content touches pillars 1, 2, 3, and 8 directly. It helps you u
 
 ---
 
-## Video 2: "The MOVE Framework: 4 Questions Every GTM Leader Must Answer"
+## Video 2: "RevCon 2023: Redefining ROI for B2B Marketers by Sangram Vajre"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | GrowthCon |
-| **URL** | https://www.youtube.com/watch?v=sangramvajre-move-framework-growthcon |
+| **URL** | https://www.youtube.com/watch?v=pAZfATvncag |
 | **Date** | December 2025 |
 | **Duration** | ~35 min |
 | **Speaker** | Sangram Vajre |

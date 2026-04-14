@@ -5,12 +5,12 @@
 
 ---
 
-## Video 1: "How to Position Your SaaS Startup (The FletchPMM Method)"
+## Video 1: "The Ultimate Positioning and Messaging Guide for Homepages–Anthony Pierri"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | The B2B Playbook |
-| **URL** | https://www.youtube.com/watch?v=anthonypierri-b2b-playbook-positioning |
+| **URL** | https://www.youtube.com/watch?v=aMNZar77Bh0 |
 | **Date** | August 2025 |
 | **Duration** | ~38 min |
 | **Speaker** | Anthony Pierri |
@@ -62,12 +62,12 @@ The post that gets the most engagement from the RIGHT people (not just random li
 
 ---
 
-## Video 2: "Before & After: Real SaaS Homepage Teardowns"
+## Video 2: "Finding the Right Messaging and Positioning"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Funky Marketing |
-| **URL** | https://www.youtube.com/watch?v=anthonypierri-homepage-teardowns |
+| **URL** | https://www.youtube.com/watch?v=KHCdanyZUPg |
 | **Date** | May 2025 |
 | **Duration** | ~42 min |
 | **Speaker** | Anthony Pierri |

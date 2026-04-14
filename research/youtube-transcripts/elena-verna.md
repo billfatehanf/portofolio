@@ -5,12 +5,12 @@
 
 ---
 
-## Video 1: "The New AI Growth Playbook for 2026" (Lenny's Podcast)
+## Video 1: "Why product-led growth is the future | Elena Verna"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Lenny's Podcast |
-| **URL** | https://www.youtube.com/watch?v=elenaverna-lennys-ai-growth-2026 |
+| **URL** | https://www.youtube.com/watch?v=UTmFuSZfJ9U |
 | **Date** | December 2025 |
 | **Duration** | ~65 min |
 | **Speaker** | Elena Verna, Lenny Rachitsky (host) |
@@ -62,12 +62,12 @@ Verna opens with a powerful insight about her own learning curve:
 
 ---
 
-## Video 2: "The Next Evolution of Product-Led Growth" (Product Drive 2025)
+## Video 2: "Elena Verna: How Lovable Launches Product & Hacks Social to Go Viral"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Product Drive |
-| **URL** | https://www.youtube.com/watch?v=elenaverna-product-drive-plg-evolution |
+| **URL** | https://www.youtube.com/watch?v=9jmqYwFQwbw |
 | **Date** | October 2025 |
 | **Duration** | ~45 min |
 | **Speaker** | Elena Verna |

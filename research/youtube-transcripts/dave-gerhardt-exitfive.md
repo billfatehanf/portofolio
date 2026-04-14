@@ -5,11 +5,11 @@
 
 ---
 
-## Video 1: "How to Build a B2B Brand on LinkedIn in 2026"
+## Video 1: "GTM 55: Contagious B2B Messaging Mastery with Dave Gerhardt"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=exitfive-linkedin-brand-2026 |
+| **URL** | https://www.youtube.com/watch?v=kG8VG-Wk0e4 |
 | **Date** | February 2026 |
 | **Duration** | ~25 min |
 | **Speaker** | Dave Gerhardt |
@@ -58,11 +58,11 @@ By month 3, you'll have 2-3k engaged followers who actually care about what you 
 
 ---
 
-## Video 2: "The Exit Five Playbook: From Zero to 5,000 Paying Members"
+## Video 2: "Intro: Erin May, CMO at User Interviews"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=exitfive-zero-to-5000 |
+| **URL** | https://www.youtube.com/watch?v=A-lIwMUUlx4 |
 | **Date** | December 2025 |
 | **Duration** | ~32 min |
 | **Speaker** | Dave Gerhardt |

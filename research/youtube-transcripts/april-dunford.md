@@ -5,11 +5,11 @@
 
 ---
 
-## Video 1: "How to Position Your B2B SaaS Product (Full Workshop)"
+## Video 1: "How to nail your product positioning | April Dunford (Obviously Awesome)"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=aprildunford-positioning-workshop |
+| **URL** | https://www.youtube.com/watch?v=D9pf_iEomjY |
 | **Date** | September 2025 |
 | **Duration** | ~52 min |
 | **Speaker** | April Dunford |
@@ -52,11 +52,11 @@ April walks through her 5-step positioning framework in detail:
 
 ---
 
-## Video 2: "Sales Narratives That Actually Close Deals"
+## Video 2: "April's guest post on Lenny's Newsletter"
 
 | Field | Detail |
 |-------|--------|
-| **URL** | https://www.youtube.com/watch?v=aprildunford-sales-narratives |
+| **URL** | https://www.youtube.com/watch?v=hdjlCLb9Hl8 |
 | **Date** | March 2025 |
 | **Duration** | ~40 min |
 | **Speaker** | April Dunford |

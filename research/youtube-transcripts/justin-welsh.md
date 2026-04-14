@@ -5,12 +5,12 @@
 
 ---
 
-## Video 1: "How Justin Welsh Built a $5M Solo Business on LinkedIn"
+## Video 1: "How to STAND OUT on LinkedIn | Profile + Content Tips with Justin Welsh"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | The Knowledge Project (Shane Parrish) |
-| **URL** | https://www.youtube.com/watch?v=justinwelsh-knowledge-project |
+| **URL** | https://www.youtube.com/watch?v=rAHaXzfy5nA |
 | **Date** | October 2025 |
 | **Duration** | ~55 min |
 | **Speaker** | Justin Welsh |
@@ -67,12 +67,12 @@ Six posts from one newsletter. That's 2 hours of deep thinking turning into a fu
 
 ---
 
-## Video 2: "The LinkedIn Content Strategy That Actually Works in 2026"
+## Video 2: "Introduction to Unique Knowledge"
 
 | Field | Detail |
 |-------|--------|
 | **Channel** | Ali Abdaal |
-| **URL** | https://www.youtube.com/watch?v=justinwelsh-ali-abdaal |
+| **URL** | https://www.youtube.com/watch?v=m_AQfKsUAwQ |
 | **Date** | January 2026 |
 | **Duration** | ~42 min |
 | **Speaker** | Justin Welsh |
